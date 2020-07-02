@@ -4,7 +4,7 @@
   + [강다빈 깃 허브 사이트](https://dabin0513.github.io/)  
   
 # Chapter2  
-## 컴퓨터 데이터 구조    
+## 컴퓨터 데이터 구조(강다빈)    
 > Stack  
 >+ FILO: First In Last Out  
 >+ push: 새로운 요소 추가  
