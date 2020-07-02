@@ -5,7 +5,7 @@
   
 # Chapter2  
 ## 컴퓨터 데이터 구조(강다빈)    
-> Stack  
+# Stack  
 >+ FILO: First In Last Out  
 >+ push: 새로운 요소 추가  
 >+ pop: 가장 최근에 들어오는 것을 지우기    
@@ -16,7 +16,7 @@
 ![Stack 사진](https://user-images.githubusercontent.com/63287630/86358634-c5f74400-bcaa-11ea-9082-b3984a33a06e.png)  
 + Stack은 데이터의 삽입과 삭제가 한 방향에서만 이루어지는데 삽입과 삭제가 일어나는 위치를 top이라고 합니다.  
 
-> Queue  
+# Queue  
 >+ FIFO: First In First Out  
 >+ Enqueue: 가장 늦게 온 것은 가장 뒤에  
 >+ Dequeue: 가장 앞에 있는 것을 가장 먼저 삭제  
