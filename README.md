@@ -2,9 +2,17 @@
 ## 팀원 github hompage  
 + 강다빈  
   + [강다빈 깃 허브 사이트](https://dabin0513.github.io/)  
-  
++ 백남규  
+  + [백남규 깃 허브 사이트](https://parkiy76.github.io/opswtp/)  
++ 박예진  
+  + [박예진 깃 허브 사이트](https://parkiy76.github.io/opswtp/)  
++ 서준철  
+  + [서준철 깃 허브 사이트](https://parkiy76.github.io/opswtp/)  
++ 조은채  
+  + [조은채 깃 허브 사이트](https://parkiy76.github.io/opswtp/)  
+
 # Chapter2  
-## 컴퓨터 데이터 구조(강다빈)    
+## 컴퓨터 데이터 구조    
 # Stack  
 >+ FILO: First In Last Out  
 >+ push: 새로운 요소 추가  
@@ -92,3 +100,43 @@ while(조건식){}
 ```java
 for(초기식; 조건식; 증감식){}
 ```
+
+#### 예제 코드  
+```java
+import java.util.Scanner;
+ 
+public class Gugudan 
+{
+    public static void main(String args[])
+    {
+        for( ; ; )    // 범위가 벗어났을경우 계속 입력하기위한 무한 반복문 사용        
+        {
+            System.out.print("1부터 9까지의 임의의 숫자를 입력하세요 : ");
+            Scanner sDan = new Scanner(System.in);
+            int dan = sDan.nextInt();
+            
+            if(dan < 10)    // 1 ~ 9까지 범위 일때
+            {
+                for(int su = 1 ; su < 10 ; su ++)    // 단이 정해지면 계산 및 출력하기위한 반복문
+                {
+                    System.out.println(dan + " * " + su + " = " + (dan * su) + " ");
+                }
+                break;    // 계산이 완료되면 STOP!
+            }else
+            { 
+                System.out.println("1부터 9까지 다시 입력해주세요.");
+                continue;    // 1 ~ 9 까지 범위안에 없을시 다시 for문 처음으로 돌아가기위해 continue 사용
+            }
+        }    
+    }
+}
+
+```
+- 구구단을 출력하는 코드
+
+
+#### 용어정리  
+1. 클래스 : 객체를 만들어 내기 위한 틀  
+2. 객체 : 클래스를 통해 만들어진 구현물  
+3. 메소드 : 특정 작업을 수행하기 위한 명령문의 집합  
+4. 생성자 : 객체가 생성될 때 반드시 수행되어햐 하는 기능  
