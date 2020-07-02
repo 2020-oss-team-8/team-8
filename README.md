@@ -7,7 +7,7 @@
 + 박예진  
   + [박예진 깃 허브 사이트](https://parkiy76.github.io/opswtp/)  
 + 서준철  
-  + [서준철 깃 허브 사이트](https://parkiy76.github.io/opswtp/)  
+  + [서준철 깃 허브 사이트](https://seojuncheol1.github.io/)  
 + 조은채  
   + [조은채 깃 허브 사이트](https://parkiy76.github.io/opswtp/)  
 
