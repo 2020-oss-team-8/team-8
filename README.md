@@ -100,7 +100,7 @@
 >   - 결정 트리를 만들 데이터의 특질을 무작위로 뽑음 -> 결정 트리가 오버피팅된다면 다양한 방향으로 오버피팅됨(다양한 관점)  
 
 - 아래와 같은 방식으로 동작됨  
-> ![random_forest_2](/images/Joeunchse9835/random_forest_2.png "출처 : 김응희 교수님 수업자료, 'week_13_데이터사이언스개론', p.35")  
+![random_forest_2](/images/Joeunchae9835/random_forest_2.png "출처 : 김응희 교수님 수업자료, 'week_13_데이터사이언스개론', p.35")
 
 * 랜덤 포레스트에 대해 설명하는 유튜브 영상 : [How Random Forest algorithm works](https://www.youtube.com/watch?v=loNcrMjYh64)   
 
