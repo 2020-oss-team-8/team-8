@@ -213,5 +213,11 @@ public class Gugudan
 >+ mv : 파일이나 디렉터리를 이동하거나 이름을 변경한다.
 >+ cat : 여러 파일을 묶어서 그 내용을 화면에 출력한다.  
 
-![리눅스 명령어 테스트2](https://user-images.githubusercontent.com/67017480/86432542-0d291780-bd33-11ea-8799-430cc78e15b3.png "리눅스 명령어 테스트2")
+![리눅스 명령어 테스트2](https://user-images.githubusercontent.com/67017480/86433439-c0930b80-bd35-11ea-9ebb-30b87b9034ee.png "리눅스 명령어 테스트2")  
 
+**Links**
+>+ ln : 두 파일간의 링크를 만든다.
+>+ find : 하위 디렉터리에서 파일을 찾는다
+>+ locate : 파일 데이터베이스에서 파일을 찾는다.  
+![링크 테스트 1](https://user-images.githubusercontent.com/67017480/86433923-f2f13880-bd36-11ea-9d92-34362e654744.png "링크 테스트1")
+![링크 테스트 2](https://user-images.githubusercontent.com/67017480/86434110-8f1b3f80-bd37-11ea-8532-6aa627def8b5.png "링크 테스트2")
