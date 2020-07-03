@@ -219,5 +219,6 @@ public class Gugudan
 >+ ln : 두 파일간의 링크를 만든다.
 >+ find : 하위 디렉터리에서 파일을 찾는다
 >+ locate : 파일 데이터베이스에서 파일을 찾는다.  
+
 ![링크 테스트 1](https://user-images.githubusercontent.com/67017480/86433923-f2f13880-bd36-11ea-9d92-34362e654744.png "링크 테스트1")
 ![링크 테스트 2](https://user-images.githubusercontent.com/67017480/86434110-8f1b3f80-bd37-11ea-8532-6aa627def8b5.png "링크 테스트2")
