@@ -5,7 +5,7 @@
 + 백남규  
   + [백남규 깃 허브 사이트](https://parkiy76.github.io/opswtp/)  
 + 박예진  
-  + [박예진 깃 허브 사이트](https://parkiy76.github.io/opswtp/)  
+  + [박예진 깃 허브 사이트](https://genie10.github.io/)  
 + 서준철  
   + [서준철 깃 허브 사이트](https://seojuncheol1.github.io/)  
 + 조은채  
@@ -240,7 +240,9 @@ public class Gugudan
 가) 객체(또는 클래스)를 중심으로 작업수행
 나) 점증&반복적인 SW개발공정을 사용함.
 
+### 4 UML
 
+![UML](/images/Yejin/UML.png "출처 : 황석형  교수님 수업자료, '강의자료 7', p.53")  
 
 ### 리눅스란?
 ![리눅스 마스코트](https://user-images.githubusercontent.com/67017480/86430237-ba4c6180-bd2c-11ea-9616-4f2f0d11de98.png "리눅스의 마스코트 Tux")
