@@ -9,11 +9,7 @@
 + 서준철  
   + [서준철 깃 허브 사이트](https://seojuncheol1.github.io/)  
 + 조은채  
-<<<<<<< HEAD
   + [조은채 깃 허브 사이트](https://joeunchae9835.github.io/)  
-=======
-  + [조은채 깃 허브 사이트](https://joeunchae9835.github.io)  
->>>>>>> bf8f6add639a75a1f4696caa1212d217280a11b7
 
 # Chapter2  
 ## Chapter2-1 : 컴퓨터 데이터 구조    
@@ -64,7 +60,7 @@
 
 -----
 ## Chapter2-2 : 데이터사이언스개론  
-### 3.1 결정 트리(Decision tree)  
+### 2-2-1 결정 트리(Decision tree)  
 > - 데이터를 이용하여 이를 분류하거나 결과값을 예측하는 분석 방법  
 > - 각 노드는 데이터를 가장 잘 구분할 수 있는 질문(기준)으로 데이터를 분류함  
 > - 결정 트리는 정보 이득을 최대화하는 방향으로 학습이 진행됨  
@@ -91,14 +87,14 @@
     |**Krusty**|6''              |200       |45      |남성                |
     - 이름은 밑의 그림에 나와 있는 순서대로  
 
-![decision_tree](/images/Joeunchae9835/decision_tree.png "출처 : 김응희 교수님 수업자료, 'week_02_데이터사이언스개론', p.35")  
+![decision_tree](./images/decision_tree.png "출처 : 김응희 교수님 수업자료, 'week_02_데이터사이언스개론', p.35")  
 
-### 3.2 랜덤 포레스트(Random forest)   
+### 2-2-2 랜덤 포레스트(Random forest)   
 > - 랜덤 포레스트를 배우기 위해서는 먼저 결정 트리를 알아야 함  
 >   - 결정 트리가 모여서 랜덤 포레스트를 구성하기 때문에 - 숲(forest)과 나무(tree)의 관계  
 > - 랜덤 포레스트를 구성하는 각 결정 트리의 예측값 중 가장 많이 나온 값을 최종 예측값으로 정함(다수결의 원칙을 따름)  
 
-![random_forest_1](/images/Joeunchae9835/random_forest_1.png "출처 : 김응희 교수님 수업자료, 'week_13_데이터사이언스개론', p.29")
+![random_forest_1](./images/random_forest_1.png "출처 : 김응희 교수님 수업자료, 'week_13_데이터사이언스개론', p.29")
 
 > - 랜덤 포레스트는 결정 트리의 단점인 오버피팅을 줄일 수 있음  
 >   - 오버피팅된 결정 트리가 있더라도 서로 다른 방향으로 오버피팅되었다면 그 결과를 평균 냄으로써 오버피팅을 줄일 수 있음  
@@ -106,7 +102,7 @@
 >   - 결정 트리를 만들 데이터의 특질을 무작위로 뽑음 -> 결정 트리가 오버피팅된다면 다양한 방향으로 오버피팅됨(다양한 관점)  
 
 - 아래와 같은 방식으로 동작함  
-![random_forest_2](/images/Joeunchae9835/random_forest_2.png "출처 : 김응희 교수님 수업자료, 'week_13_데이터사이언스개론', p.35")
+![random_forest_2](./images/random_forest_2.png "출처 : 김응희 교수님 수업자료, 'week_13_데이터사이언스개론', p.35")
 
 * 랜덤 포레스트에 대해 설명하는 유튜브 영상 : [How Random Forest algorithm works](https://www.youtube.com/watch?v=loNcrMjYh64)   
 
