@@ -9,7 +9,7 @@
 + 서준철  
   + [서준철 깃 허브 사이트](https://seojuncheol1.github.io/)  
 + 조은채  
-  + [조은채 깃 허브 사이트](https://parkiy76.github.io/opswtp/)  
+  + [조은채 깃 허브 사이트](https://joeunchae9835.github.io/)  
 
 # Chapter2  
 ## 컴퓨터 데이터 구조    
