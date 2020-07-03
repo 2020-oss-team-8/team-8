@@ -198,10 +198,20 @@ public class Gugudan
 ### 리눅스의 기본 명령어
 
 **Directories**
-* pwd:현재 디렉터리 출력
-* ls: 디렉터리 파일 목록 나열
-* cd: 디렉터리를 이동
-* mkdir: 디렉터리 생성
-* rmdir: 디렉터리   
+>+ pwd:현재 디렉터리 출력
+>+ ls: 디렉터리 파일 목록 나열
+>+ cd: 디렉터리를 이동
+>+ mkdir: 디렉터리 생성
+>+ rmdir: 디렉터리   
 
-![리눅스 명령어 테스트](https://user-images.githubusercontent.com/67017480/86431860-dce07980-bd30-11ea-95cd-08019e11b2e8.png "리눅스 명령어 테스트")
+![리눅스 명령어 테스트](https://user-images.githubusercontent.com/67017480/86431860-dce07980-bd30-11ea-95cd-08019e11b2e8.png "리눅스 명령어 테스트")  
+
+**Files**
+>+ touch: 파일을 만든다. 만약에 기존 파일이 있으면 최종 수정 시간을 변경한다.
+>+ cp: 파일이나 디렉터리를 복사한다.
+>+ rm: 파일이나 디렉터리를 삭제한다.
+>+ mv: 파일이나 디렉터리를 이동하거나 이름을 변경한다.
+>+ cat: 여러 파일을 묶어서 그 내용을 화면에 출력한다.  
+
+![리눅스 명령어 테스트2](https://user-images.githubusercontent.com/67017480/86432542-0d291780-bd33-11ea-8799-430cc78e15b3.png "리눅스 명령어 테스트2")
+
