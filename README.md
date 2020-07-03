@@ -1,4 +1,5 @@
 # Chapter1  
+-----
 ## 팀원 github hompage  
 + 강다빈  
   + [강다빈 깃 허브 사이트](https://dabin0513.github.io/)  
@@ -11,7 +12,12 @@
 + 조은채  
   + [조은채 깃 허브 사이트](https://joeunchae9835.github.io)  
 
+**-----**
+
 # Chapter2  
+
+-----
+
 ## Chapter2-1 : 컴퓨터 데이터 구조    
 # Stack  
 >+ FILO: First In Last Out  
@@ -59,6 +65,7 @@
 > - 트리의 높이(height): 루트 노드에서 가장 깊숙히 있는 노드의 깊이
 
 -----
+
 ## Chapter2-2 : 데이터사이언스개론  
 ### 3.1 결정 트리(Decision tree)  
 > - 데이터를 이용하여 이를 분류하거나 결과값을 예측하는 분석 방법  
@@ -107,6 +114,7 @@
 * 랜덤 포레스트에 대해 설명하는 유튜브 영상 : [How Random Forest algorithm works](https://www.youtube.com/watch?v=loNcrMjYh64)   
 
 -----
+
 ## Chapter2-3 : 프로그래밍 응용 1
 #### 자바란?
 
@@ -187,6 +195,8 @@ public class Gugudan
 3. 메소드 : 특정 작업을 수행하기 위한 명령문의 집합  
 4. 생성자 : 객체가 생성될 때 반드시 수행되어햐 하는 기능  
 
+-----
+
 [TOC]
 ----
 
@@ -244,6 +254,9 @@ public class Gugudan
 
 ![UML](/images/Yejin/UML.png "출처 : 황석형  교수님 수업자료, '강의자료 7', p.53")  
 
+-----
+
+## Chapter2-5 : 오픈소스 소프트웨어
 ### 리눅스란?
 ![리눅스 마스코트](https://user-images.githubusercontent.com/67017480/86430237-ba4c6180-bd2c-11ea-9616-4f2f0d11de98.png "리눅스의 마스코트 Tux")
 * 리눅스란 리누스 토르발스가 개발한 컴퓨터 운영 체제이다. 리눅스는 유닉스같은 컴퓨터 운영체제를 만들려고 했지만 개발방식이 닫힌 개발방식으로 만들어진 유닉스와는 달리 리눅스는 프리소프트웨어 정신을 이어받고, 오픈소스 소프트웨어 개발방식에 따라서 만들어졌다. 그 후 리눅스는 프리 소프트웨어와 오픈 소스 개발의 가장 유명한 표본이 되었다.  
