@@ -12,7 +12,7 @@
   + [조은채 깃 허브 사이트](https://parkiy76.github.io/opswtp/)  
 
 # Chapter2  
-## 컴퓨터 데이터 구조    
+## Chapter2-1 : 컴퓨터 데이터 구조    
 # Stack  
 >+ FILO: First In Last Out  
 >+ push: 새로운 요소 추가  
@@ -59,7 +59,7 @@
 >      + 트리의 높이(height): 루트 노드에서 가장 깊숙히 있는 노드의 깊이
 
 -----
-# Chapter3 : 데이터사이언스개론  
+# Chapter2-1 : 데이터사이언스개론  
 ### 3.1 결정 트리(Decision tree)  
 > - 데이터를 이용하여 이를 분류하거나 결과값을 예측하는 분석 방법  
 > - 각 노드는 데이터를 가장 잘 구분할 수 있는 질문(기준)으로 데이터를 분류함  
@@ -107,7 +107,7 @@
 * 랜덤 포레스트에 대해 설명하는 유튜브 영상 : [How Random Forest algorithm works](https://www.youtube.com/watch?v=loNcrMjYh64)   
 
 -----
-## 프로그래밍 응용 1
+## Chapter2-1 : 프로그래밍 응용 1
 #### 자바란?
 
 1. 완전한 객체지향 언어이며, 객체지향의 특성인 클래스, 상속, 캡슐화, 다형성 등의 개념이 적  용된 언어이다.  
@@ -190,7 +190,7 @@ public class Gugudan
 [TOC]
 
 
-## 오픈소스 소프트웨어
+## Chapter2-1 : 오픈소스 소프트웨어
 
 ### 리눅스란?
 ![리눅스 마스코트](https://user-images.githubusercontent.com/67017480/86430237-ba4c6180-bd2c-11ea-9616-4f2f0d11de98.png "리눅스의 마스코트 Tux")
